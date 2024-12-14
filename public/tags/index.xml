@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tags on Axel.C</title>
-    <link>https://hacksalt103.github.io/tags/</link>
+    <link>https://hacksalt013.github.io/tags/</link>
     <description>Recent content in tags on Axel.C</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://hacksalt103.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hacksalt013.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tag_a</title>
-      <link>https://hacksalt103.github.io/tags/tag_a/</link>
+      <link>https://hacksalt013.github.io/tags/tag_a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hacksalt103.github.io/tags/tag_a/</guid>
+      <guid>https://hacksalt013.github.io/tags/tag_a/</guid>
       <description>&lt;h4 id=&#34;-tagstag_a&#34;&gt;🏷️ /tags/tag_a&lt;/h4&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>tag_b</title>
-      <link>https://hacksalt103.github.io/tags/tag_b/</link>
+      <link>https://hacksalt013.github.io/tags/tag_b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hacksalt103.github.io/tags/tag_b/</guid>
+      <guid>https://hacksalt013.github.io/tags/tag_b/</guid>
       <description>&lt;h4 id=&#34;-tagstag_b&#34;&gt;🏷️ /tags/tag_b&lt;/h4&gt;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>
