@@ -26,7 +26,7 @@
 	/* --content-font-family: "Fira Code", monospace; */
   }
   
-  body[data-theme="dark"] {
+  body {
 	--background-color: var(--black-color);
 	--text-color: var(--white-color);
 	--gray-color: var(--dgray-color);
