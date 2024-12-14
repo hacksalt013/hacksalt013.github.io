@@ -1,0 +1,7 @@
+baseURL = 'https://hacksalt013.github.io/'
+languageCode = 'en-us'
+title = 'Axel.C'
+theme = 'freshpink'
+[params]
+	githubUsername = "clexa013"
+publishDir = "docs"

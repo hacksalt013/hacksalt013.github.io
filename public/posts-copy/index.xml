@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts Copies on Hacksalt blog</title>
+    <link>http://localhost:1313/posts-copy/</link>
+    <description>Recent content in Posts Copies on Hacksalt blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts-copy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01. freshPink</title>
+      <link>http://localhost:1313/posts-copy/post-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts-copy/post-1/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;After enjoying several Hugo themes, I tried to develop a theme that suited my needs, refined it, and evolved it into this theme.&lt;/p&gt;&#xA;&lt;p&gt;While it&amp;rsquo;s simple and static page-based, the theme makes it easy to categorize your articles with tags and helps you manage your blog with multiple shortcut.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;1-getting-started&#34;&gt;1. Getting Started&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;To begin using freshPink for your development blog, follow the installation and customization instructions available on our &lt;a href=&#34;https://github.com/your-repo/freshpink-hugo-theme&#34;&gt;&lt;strong&gt;GitHub repository&lt;/strong&gt;&lt;/a&gt;. Dive into the world of blogging with a theme that&amp;rsquo;s as dynamic and vibrant as your ideas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
