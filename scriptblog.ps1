@@ -8,7 +8,7 @@ $sourcePath = "C:\Users\axcou\Documents\vault\Clexa Vault\010 - blog"
 $destinationPath = "C:\Users\axcou\Desktop\perso\projet\blog\hacksalt013.github.io\content\posts"
 
 # Set Github repo 
-$myrepo = "hacksalt013.github.io"
+$myrepo = "https://github.com/hacksalt013/hacksalt013.github.io"
 
 # Set error handling
 $ErrorActionPreference = "Stop"
