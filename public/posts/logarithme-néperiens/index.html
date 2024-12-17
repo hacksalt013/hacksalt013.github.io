@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
 <head>
-	<meta name="generator" content="Hugo 0.139.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js"
@@ -15,7 +14,7 @@
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="/css/reset.css">
-<title>Axel.C</title>
+<title>Logarithme néperiens | Axel.C</title>
 
       <link rel="stylesheet" href="/css/main.min.e00e604bae4b758e2bbddd09744663fd8c3d0a7333832d5606f4eb2b45ccebf3.css" integrity="sha256-4A5gS65LdY4rvd0JdEZj/Yw9CnMzgy1WBvTrK0XM6/M=" crossorigin="anonymous">
       <link rel="stylesheet" href="/css/min700.min.c55885430d625813d1a6770ef6712b8534781fdd318699edd1bb9c6f62907507.css" integrity="sha256-xViFQw1iWBPRpncO9nErhTR4H90xhpnt0bucb2KQdQc=" crossorigin="anonymous">
@@ -40,49 +39,56 @@
 	</nav>
   </header>
     
-<div style="padding-top: 16px;">
-  <h4 id="-home">🏠 /home</h4>
-<hr>
-<div class="commit">
-    <img src="https://ghchart.rshah.org/49344b/clexa013"/>
-</div>
-
-</div>
-<div class="posts-list">
-  
-    <div class="post-title">
-      <a href="/posts/d%C3%A9riv%C3%A9s/">- Dérivés</a>
+  <aside class="toc">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#différentes-formes-du-logarithme">Différentes formes du logarithme:</a></li>
+    <li><a href="#résolutions-de-ln-par-e">Résolutions de ln par e:</a></li>
+    <li><a href="#exprimer-en-fonction-de-ln3">Exprimer en fonction de ln(3):</a></li>
+    <li><a href="#exemple">Exemple:</a>
+      <ul>
+        <li><a href="#ensembles-de-definitions">Ensembles de definitions:</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </aside>
+  <div class="featured-container">
+    
+      <div class="featured-image">
+        <img src="https://raw.githubusercontent.com/ElecBrandy/freshpink/gh-pages/basic.png" alt="Featured Image for Logarithme néperiens">
+      </div>
+    
+    <div class="overlay-text">
       <small>2024.12.12</small>
+      <div class="singleTitle">Logarithme néperiens</div>
     </div>
-  
-    <div class="post-title">
-      <a href="/posts/exponentielle/">- Exponentielle</a>
-      <small>2024.12.12</small>
-    </div>
-  
-    <div class="post-title">
-      <a href="/posts/logarithme-n%C3%A9periens/">- Logarithme néperiens</a>
-      <small>2024.12.12</small>
-    </div>
-  
-    <div class="post-title">
-      <a href="/posts/nombres-complexes/">- Nombres complexes</a>
-      <small>2024.12.12</small>
-    </div>
-  
-    <div class="post-title">
-      <a href="/posts/polynome-2e-degr%C3%A9s/">- Polynome 2e degrés</a>
-      <small>2024.12.12</small>
-    </div>
-  
-</div>
+  </div>
+  <h2 id="différentes-formes-du-logarithme">Différentes formes du logarithme:</h2>
+<p>$$\ln(xy)=\ln(x)+\ln(y)$$
+$$\ln(\frac{x}{y})=\ln(x)-\ln(y)$$
+$$\ln(x^{n})=n\cdot\ln x$$</p>
+<h2 id="résolutions-de-ln-par-e">Résolutions de ln par e:</h2>
+<p>$$\ln(x)=-1$$
+$$e^{\ln x}=e^{-1}$$
+$$x=e^{-1}$$</p>
+<h2 id="exprimer-en-fonction-de-ln3">Exprimer en fonction de ln(3):</h2>
+<p>$$\begin{align}
+\ln(81) &amp;= \ln(9)+\ln(9) \
+&amp;= 2\ln3+2\ln3 \
+&amp;= 4\ln3
+\end{align}$$</p>
+<h2 id="exemple">Exemple:</h2>
+<p>$$\ln(2+5x)=\ln(x+6)$$</p>
+<h3 id="ensembles-de-definitions">Ensembles de definitions:</h3>
+<p>$$D_{1}: 2+5x&gt;0 \Rightarrow 5x&gt;-2 \Rightarrow x=\frac{-2}{5}$$
+$$D_{2}: x+6&gt;0 \Rightarrow x&gt;-6$$
+$$D=D_{1}\cap D_{2}={x\in]\frac{-2}{5};+\infty[ }$$
+$$2+5x=x+6\Rightarrow 5x-x=6-2\Rightarrow 4x=4\Rightarrow x=1$$
+$$x=1 \in D \Rightarrow S={1}$$</p>
 
 
     
-<footer id="footer">
-    Copyright © 2024 clexa013
-</footer>
-
 
 <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({

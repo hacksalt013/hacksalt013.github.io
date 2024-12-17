@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
 <head>
-	<meta name="generator" content="Hugo 0.139.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js"
@@ -15,7 +14,7 @@
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="/css/reset.css">
-<title>Axel.C</title>
+<title>Polynome 2e degrés | Axel.C</title>
 
       <link rel="stylesheet" href="/css/main.min.e00e604bae4b758e2bbddd09744663fd8c3d0a7333832d5606f4eb2b45ccebf3.css" integrity="sha256-4A5gS65LdY4rvd0JdEZj/Yw9CnMzgy1WBvTrK0XM6/M=" crossorigin="anonymous">
       <link rel="stylesheet" href="/css/min700.min.c55885430d625813d1a6770ef6712b8534781fdd318699edd1bb9c6f62907507.css" integrity="sha256-xViFQw1iWBPRpncO9nErhTR4H90xhpnt0bucb2KQdQc=" crossorigin="anonymous">
@@ -40,49 +39,59 @@
 	</nav>
   </header>
     
-<div style="padding-top: 16px;">
-  <h4 id="-home">🏠 /home</h4>
-<hr>
-<div class="commit">
-    <img src="https://ghchart.rshah.org/49344b/clexa013"/>
-</div>
-
-</div>
-<div class="posts-list">
-  
-    <div class="post-title">
-      <a href="/posts/d%C3%A9riv%C3%A9s/">- Dérivés</a>
+  <aside class="toc">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#forme-du-polynome">Forme du polynome:</a></li>
+    <li><a href="#formule-du-discrimant">Formule du discrimant:</a>
+      <ul>
+        <li><a href="#si-delta0-il-y-a-0-solutions">Si $\Delta&lt;0$: il y a 0 solutions</a></li>
+        <li><a href="#si-delta0-il-y-a-1-solutions">Si $\Delta=0$: il y a 1 solutions</a></li>
+        <li><a href="#si-delta0-il-y-a-1-solutions-1">Si $\Delta&gt;0$: il y a 1 solutions</a></li>
+      </ul>
+    </li>
+    <li><a href="#forme-canonique">Forme canonique:</a>
+      <ul>
+        <li><a href="#avec">avec:</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </aside>
+  <div class="featured-container">
+    
+      <div class="featured-image">
+        <img src="https://raw.githubusercontent.com/ElecBrandy/freshpink/gh-pages/basic.png" alt="Featured Image for Polynome 2e degrés">
+      </div>
+    
+    <div class="overlay-text">
       <small>2024.12.12</small>
+      <div class="singleTitle">Polynome 2e degrés</div>
     </div>
-  
-    <div class="post-title">
-      <a href="/posts/exponentielle/">- Exponentielle</a>
-      <small>2024.12.12</small>
-    </div>
-  
-    <div class="post-title">
-      <a href="/posts/logarithme-n%C3%A9periens/">- Logarithme néperiens</a>
-      <small>2024.12.12</small>
-    </div>
-  
-    <div class="post-title">
-      <a href="/posts/nombres-complexes/">- Nombres complexes</a>
-      <small>2024.12.12</small>
-    </div>
-  
-    <div class="post-title">
-      <a href="/posts/polynome-2e-degr%C3%A9s/">- Polynome 2e degrés</a>
-      <small>2024.12.12</small>
-    </div>
-  
-</div>
+  </div>
+  <h2 id="forme-du-polynome">Forme du polynome:</h2>
+<p>$$f=ax^{2}+bx+c$$</p>
+<h2 id="formule-du-discrimant">Formule du discrimant:</h2>
+<p>$$\Delta=b^{2}-4ac$$</p>
+<h3 id="si-delta0-il-y-a-0-solutions">Si $\Delta&lt;0$: il y a 0 solutions</h3>
+<p>$$pas;de;forme;factorisé$$</p>
+<h3 id="si-delta0-il-y-a-1-solutions">Si $\Delta=0$: il y a 1 solutions</h3>
+<p>$$x_{1}=\frac{-b}{2a}$$</p>
+<h4 id="et-sa-forme-facorisé">et sa forme facorisé:</h4>
+<p>$$f(x)=(x-x_{1})^{2}$$</p>
+<h3 id="si-delta0-il-y-a-1-solutions-1">Si $\Delta&gt;0$: il y a 1 solutions</h3>
+<p>$$x_{1}=\frac{-b+\sqrt{b^{2}-4ac}}{2a}$$
+$$x_{2}=\frac{-b-\sqrt{b^{2}-4ac}}{2a}$$</p>
+<h4 id="et-sa-forme-factorisé">et sa forme factorisé:</h4>
+<p>$$f(x)=a(x-x_{1})(x-x_{2})$$</p>
+<h2 id="forme-canonique">Forme canonique:</h2>
+<p>$$f(x)=a(x-\alpha)^{2}+\beta$$</p>
+<h3 id="avec">avec:</h3>
+<p>$$\alpha=\frac{-b}{2a}$$
+$$\beta=\frac{-b^{2}-4ac}{4a}$$</p>
 
 
     
-<footer id="footer">
-    Copyright © 2024 clexa013
-</footer>
-
 
 <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({

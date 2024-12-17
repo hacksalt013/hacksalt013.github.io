@@ -2,16 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hacksalt013.github.io/posts/d%C3%A9riv%C3%A9s/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hacksalt013.github.io/posts/exponentielle/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hacksalt013.github.io/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hacksalt013.github.io/posts/logarithme-n%C3%A9periens/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hacksalt013.github.io/tags/math/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hacksalt013.github.io/posts/nombres-complexes/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hacksalt013.github.io/posts/polynome-2e-degr%C3%A9s/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hacksalt013.github.io/posts/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hacksalt013.github.io/tags/</loc>
+    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hacksalt013.github.io/about/</loc>
   </url><url>
     <loc>https://hacksalt013.github.io/categories/</loc>
   </url><url>
-    <loc>https://hacksalt013.github.io/</loc>
-  </url><url>
     <loc>https://hacksalt013.github.io/tags/tag_a/</loc>
   </url><url>
     <loc>https://hacksalt013.github.io/tags/tag_b/</loc>
-  </url><url>
-    <loc>https://hacksalt013.github.io/tags/</loc>
   </url>
 </urlset>

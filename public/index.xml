@@ -6,6 +6,42 @@
     <description>Recent content in home on Axel.C</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hacksalt013.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dérivés</title>
+      <link>https://hacksalt013.github.io/posts/d%C3%A9riv%C3%A9s/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://hacksalt013.github.io/posts/d%C3%A9riv%C3%A9s/</guid>
+      <description>&lt;h2 id=&#34;base-des-derives&#34;&gt;Base des derives:&lt;/h2&gt;&#xA;&lt;p&gt;$f&amp;rsquo;(a)\Rightarrow$ coefficient directeur de la tangente en $x$ noté $\frac{\text{verti}}{\text{hori}}=a$&lt;/p&gt;&#xA;&lt;h3 id=&#34;tangente&#34;&gt;Tangente:&lt;/h3&gt;&#xA;&lt;p&gt;$$y=f&amp;rsquo;(a)(x-a)+f(a)$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;fonctions-derives&#34;&gt;Fonctions derives:&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Fonctions&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Fonctions derives&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f(x)=k$&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f&amp;rsquo;(x)=0$&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f(x)=ax^{n}$&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f&amp;rsquo;(x)=anx^{n-1}$&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f(x)=\sin(ax+b)$&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f&amp;rsquo;(x)=a\cdot\cos(ax+b)$&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f(x)=ku$&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f&amp;rsquo;(x)=ku&#39;$&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f(x)=u+v$&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f&amp;rsquo;(x)=u&amp;rsquo;+v&#39;$&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f(x)=u\cdot v$&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f&amp;rsquo;(x)=u&amp;rsquo;\cdot v+v&amp;rsquo;\cdot u$&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f(x)=\frac{u}{v}$&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f&amp;rsquo;(x)=\frac{u&amp;rsquo;\cdot v-v&amp;rsquo;\cdot u}{v^{2}}$&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f(x)=u^{n}$&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$f&amp;rsquo;(x)=n\cdot u&amp;rsquo;\cdot u^{n-1}$&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Exponentielle</title>
+      <link>https://hacksalt013.github.io/posts/exponentielle/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://hacksalt013.github.io/posts/exponentielle/</guid>
+      <description>&lt;h2 id=&#34;différentes-formes-dexponentielle&#34;&gt;Différentes formes d&amp;rsquo;exponentielle:&lt;/h2&gt;&#xA;&lt;p&gt;$$e^{a+b}=e^{a}\cdot e^{b}$$&#xA;$$e^{-b}=\frac{1}{e^{b}}$$&#xA;$$e^{na}=(e^{a})^{n}$$&#xA;$$e^{a-b}=\frac{e^{a}}{e^{b}}$$&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logarithme néperiens</title>
+      <link>https://hacksalt013.github.io/posts/logarithme-n%C3%A9periens/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://hacksalt013.github.io/posts/logarithme-n%C3%A9periens/</guid>
+      <description>&lt;h2 id=&#34;différentes-formes-du-logarithme&#34;&gt;Différentes formes du logarithme:&lt;/h2&gt;&#xA;&lt;p&gt;$$\ln(xy)=\ln(x)+\ln(y)$$&#xA;$$\ln(\frac{x}{y})=\ln(x)-\ln(y)$$&#xA;$$\ln(x^{n})=n\cdot\ln x$$&lt;/p&gt;&#xA;&lt;h2 id=&#34;résolutions-de-ln-par-e&#34;&gt;Résolutions de ln par e:&lt;/h2&gt;&#xA;&lt;p&gt;$$\ln(x)=-1$$&#xA;$$e^{\ln x}=e^{-1}$$&#xA;$$x=e^{-1}$$&lt;/p&gt;&#xA;&lt;h2 id=&#34;exprimer-en-fonction-de-ln3&#34;&gt;Exprimer en fonction de ln(3):&lt;/h2&gt;&#xA;&lt;p&gt;$$\begin{align}&#xA;\ln(81) &amp;amp;= \ln(9)+\ln(9) \&#xA;&amp;amp;= 2\ln3+2\ln3 \&#xA;&amp;amp;= 4\ln3&#xA;\end{align}$$&lt;/p&gt;&#xA;&lt;h2 id=&#34;exemple&#34;&gt;Exemple:&lt;/h2&gt;&#xA;&lt;p&gt;$$\ln(2+5x)=\ln(x+6)$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;ensembles-de-definitions&#34;&gt;Ensembles de definitions:&lt;/h3&gt;&#xA;&lt;p&gt;$$D_{1}: 2+5x&amp;gt;0 \Rightarrow 5x&amp;gt;-2 \Rightarrow x=\frac{-2}{5}$$&#xA;$$D_{2}: x+6&amp;gt;0 \Rightarrow x&amp;gt;-6$$&#xA;$$D=D_{1}\cap D_{2}={x\in]\frac{-2}{5};+\infty[ }$$&#xA;$$2+5x=x+6\Rightarrow 5x-x=6-2\Rightarrow 4x=4\Rightarrow x=1$$&#xA;$$x=1 \in D \Rightarrow S={1}$$&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nombres complexes</title>
+      <link>https://hacksalt013.github.io/posts/nombres-complexes/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://hacksalt013.github.io/posts/nombres-complexes/</guid>
+      <description>&lt;h2 id=&#34;bases-des-complexes&#34;&gt;Bases des complexes:&lt;/h2&gt;&#xA;&lt;p&gt;$$i^{2}=-1$$&lt;/p&gt;&#xA;&lt;h2 id=&#34;différentes-formes-des-complexe&#34;&gt;Différentes formes des complexe:&lt;/h2&gt;&#xA;&lt;h3 id=&#34;forme-algébrique&#34;&gt;Forme algébrique:&lt;/h3&gt;&#xA;&lt;p&gt;$$Z=a+ib$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;forme-exponentielle&#34;&gt;Forme exponentielle:&lt;/h3&gt;&#xA;&lt;p&gt;$$Z=\varphi e^{i\phi}$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;forme-trigonométrique&#34;&gt;Forme trigonométrique:&lt;/h3&gt;&#xA;&lt;p&gt;$$Z=\varphi(\cos\phi+i\sin\phi)$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;trouver-varphi-et-phi&#34;&gt;Trouver $\varphi$ et $\phi$:&lt;/h3&gt;&#xA;&lt;p&gt;$$\varphi = \sqrt{ a^{2}+b^{2} }$$&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\phi\begin{cases}&#xA;\cos\phi=\frac{a}{\varphi} \Rightarrow \text{Arcos} \&#xA;\sin\phi=\frac{b}{\varphi} \Rightarrow \text{Arsin}&#xA;\end{cases}&#xA;$$&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Polynome 2e degrés</title>
+      <link>https://hacksalt013.github.io/posts/polynome-2e-degr%C3%A9s/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://hacksalt013.github.io/posts/polynome-2e-degr%C3%A9s/</guid>
+      <description>&lt;h2 id=&#34;forme-du-polynome&#34;&gt;Forme du polynome:&lt;/h2&gt;&#xA;&lt;p&gt;$$f=ax^{2}+bx+c$$&lt;/p&gt;&#xA;&lt;h2 id=&#34;formule-du-discrimant&#34;&gt;Formule du discrimant:&lt;/h2&gt;&#xA;&lt;p&gt;$$\Delta=b^{2}-4ac$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;si-delta0-il-y-a-0-solutions&#34;&gt;Si $\Delta&amp;lt;0$: il y a 0 solutions&lt;/h3&gt;&#xA;&lt;p&gt;$$pas;de;forme;factorisé$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;si-delta0-il-y-a-1-solutions&#34;&gt;Si $\Delta=0$: il y a 1 solutions&lt;/h3&gt;&#xA;&lt;p&gt;$$x_{1}=\frac{-b}{2a}$$&lt;/p&gt;&#xA;&lt;h4 id=&#34;et-sa-forme-facorisé&#34;&gt;et sa forme facorisé:&lt;/h4&gt;&#xA;&lt;p&gt;$$f(x)=(x-x_{1})^{2}$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;si-delta0-il-y-a-1-solutions-1&#34;&gt;Si $\Delta&amp;gt;0$: il y a 1 solutions&lt;/h3&gt;&#xA;&lt;p&gt;$$x_{1}=\frac{-b+\sqrt{b^{2}-4ac}}{2a}$$&#xA;$$x_{2}=\frac{-b-\sqrt{b^{2}-4ac}}{2a}$$&lt;/p&gt;&#xA;&lt;h4 id=&#34;et-sa-forme-factorisé&#34;&gt;et sa forme factorisé:&lt;/h4&gt;&#xA;&lt;p&gt;$$f(x)=a(x-x_{1})(x-x_{2})$$&lt;/p&gt;&#xA;&lt;h2 id=&#34;forme-canonique&#34;&gt;Forme canonique:&lt;/h2&gt;&#xA;&lt;p&gt;$$f(x)=a(x-\alpha)^{2}+\beta$$&lt;/p&gt;&#xA;&lt;h3 id=&#34;avec&#34;&gt;avec:&lt;/h3&gt;&#xA;&lt;p&gt;$$\alpha=\frac{-b}{2a}$$&#xA;$$\beta=\frac{-b^{2}-4ac}{4a}$$&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
